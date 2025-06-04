@@ -42,5 +42,3 @@ This project implements an **AI-based virtual mouse system** that uses **real-ti
 [GitHub](https://github.com/Akashdevin09) | [LinkedIn](https://www.linkedin.com/in/akash-mishra-5b9452287/)
 
 ---
-
-Let me know if you'd like a `README.md` version or help with creating the GitHub repo and uploading.
