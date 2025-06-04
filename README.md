@@ -75,13 +75,6 @@ Press `Q` to exit.
 
 ---
 
-## 📌 Requirements
-
-* Python 3.7+
-* Webcam
-* Compatible OS (Windows/Linux/macOS)
-
----
 
 ## 📖 Future Improvements
 
@@ -95,7 +88,7 @@ Press `Q` to exit.
 ## 👨‍💻 Author
 
 **Akash**
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/Akashdevin09) | [LinkedIn](https://www.linkedin.com/in/akash-mishra-5b9452287/)
 
 ---
 
