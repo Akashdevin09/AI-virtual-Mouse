@@ -27,55 +27,6 @@ This project implements an **AI-based virtual mouse system** that uses **real-ti
 
 ---
 
-## 📂 Project Structure
-
-```
-AI-Virtual-Mouse/
-│
-├── main.py                 # Main script for gesture recognition and control
-├── click.wav              # Custom sound for click feedback
-├── requirements.txt       # List of required Python packages
-└── README.md              # Project documentation (you are here!)
-```
-
----
-
-## 🔧 Installation
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/AI-Virtual-Mouse.git
-cd AI-Virtual-Mouse
-```
-
-2. Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Make sure `click.wav` is in the root directory. If missing, add your own `.wav` file named `click.wav`.
-
----
-
-## ▶️ How to Run
-
-```bash
-python main.py
-```
-
-Ensure your webcam is connected. The app will open a window displaying the camera feed with hand tracking.
-
-* Use your **index finger** to move the cursor.
-* Pinch your **thumb and index finger** to simulate a click.
-* Move **index and middle fingers** vertically apart to scroll.
-
-Press `Q` to exit.
-
----
-
-
 ## 📖 Future Improvements
 
 * Add multi-hand support
